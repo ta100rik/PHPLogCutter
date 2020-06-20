@@ -1,0 +1,2 @@
+# PHPLogCutter
+PHPLogCutter is a 
